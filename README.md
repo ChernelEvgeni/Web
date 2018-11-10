@@ -5,7 +5,7 @@
 - Алексеев Владимир (@AlekseevVladimir)
 - Колтун Дмитрий (@KoltunDmitry)
 - Чернель Евгений (@ChernelEvgeni)
->>>>>>> task1
+
 
 ## Граф визуальный прекрасный I
 
